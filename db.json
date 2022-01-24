@@ -2,7 +2,7 @@
   "todos": [
     {
         "id": 1,
-        "name": "First todo",
+        "text": "First todo",
         "completed": false
     }
   ]
