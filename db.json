@@ -1,3 +1,9 @@
 {
-  "notebooks": []
+  "notebooks": [
+    {
+      "title": "Hi there",
+      "color": "#ffffff",
+      "id": 1
+    }
+  ]
 }
